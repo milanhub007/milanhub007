@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">A Data Enthusiast</h3>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3622080/screenshots/15648952/media/e11ca617ad5b2da061ec8367cb9a5f56.gif" width="500" height="350" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1355613/screenshots/17574953/media/2e3c17623e81c4bda44369eef1604342.jpg?compress=1&resize=1000x750&vertical=top" width="500" height="350" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data science**
